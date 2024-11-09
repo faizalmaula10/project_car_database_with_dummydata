@@ -1,0 +1,51 @@
+product_id,brand,model,body_type,year,price,transmission,description
+1,Toyota,Toyota Yaris,Hatchback,2016,175000000,at,white
+2,Toyota,Toyota Yaris,Hatchback,2018,215000000,at,black
+3,Toyota,Toyota Yaris,Hatchback,2014,162000000,m,black
+4,Toyota,Toyota Yaris,Hatchback,2020,220000000,at,grey
+5,Toyota,Toyota Yaris,Hatchback,2012,124000000,at,white
+6,Toyota,Toyota Agya,Hatchback,2019,114000000,m,black
+7,Toyota,Toyota Agya,Hatchback,2014,97000000,at,black
+8,Toyota,Toyota Agya,Hatchback,2016,110000000,at,grey
+9,Toyota,Toyota Agya,Hatchback,2022,155500000,at,dark blue
+10,Toyota,Toyota Agya,Hatchback,2017,115500000,m,red
+11,Toyota,Toyota Calya,Wagon,2019,130000000,m,yellow
+12,Toyota,Toyota Calya,Wagon,2019,137000000,at,grey
+13,Toyota,Toyota Calya,Wagon,2017,115500000,at,blue
+14,Toyota,Toyota Calya,Wagon,2016,104000000,at,red
+15,Toyota,Toyota Calya,Wagon,2016,107000000,at,yellow
+16,Daihatsu,Daihatsu Ayla,Hatchback,2016,83000000,at,grey
+17,Daihatsu,Daihatsu Ayla,Hatchback,2019,120000000,at,yellow
+18,Daihatsu,Daihatsu Ayla,Hatchback,2015,96000000,m,dark blue
+19,Daihatsu,Daihatsu Ayla,Hatchback,2017,115000000,m,dark blue
+20,Daihatsu,Daihatsu Ayla,Hatchback,2017,113000000,m,blue
+21,Daihatsu,Daihatsu Terios,SUV,2018,190000000,at,dark blue
+22,Daihatsu,Daihatsu Terios,SUV,2022,223000000,at,dark blue
+23,Daihatsu,Daihatsu Terios,SUV,2019,189900000,m,dark blue
+24,Daihatsu,Daihatsu Terios,SUV,2017,166000000,at,grey
+25,Daihatsu,Daihatsu Terios,SUV,2018,201000000,m,white
+26,Daihatsu,Daihatsu Xenia,MPV,2019,170000000,m,black
+27,Daihatsu,Daihatsu Xenia,MPV,2022,220500000,at,grey
+28,Daihatsu,Daihatsu Xenia,MPV,2017,135000000,m,black
+29,Daihatsu,Daihatsu Xenia,MPV,2014,100000000,m,grey
+30,Daihatsu,Daihatsu Xenia,MPV,2018,159000000,at,yellow
+31,Honda,Honda Jazz,Hatchback,2018,236000000,at,white
+32,Honda,Honda Jazz,Hatchback,2019,250000000,m,red
+33,Honda,Honda Jazz,Hatchback,2018,216000000,at,white
+34,Honda,Honda Jazz,Hatchback,2015,192000000,m,black
+35,Honda,Honda Jazz,Hatchback,2013,178000000,m,white
+36,Honda,Honda CR-V,SUV,2018,415000000,at,black
+37,Honda,Honda CR-V,SUV,2017,345000000,m,grey
+38,Honda,Honda CR-V,SUV,2009,116000000,at,black
+39,Honda,Honda CR-V,SUV,2016,269000000,m,red
+40,Honda,Honda CR-V,SUV,2018,398500000,m,grey
+41,Honda,Honda Civic,Hatchback,2018,350000000,m,blue
+42,Honda,Honda Civic,Sedan,2010,165000000,at,black
+43,Honda,Honda Civic,Sedan,2013,186000000,at,white
+44,Honda,Honda Civic,Sedan,2013,179000000,at,yellow
+45,Honda,Honda Civic,Hatchback,2019,397500000,m,dark blue
+46,Suzuki,Suzuki Ertiga,MPV,2015,125000000,at,yellow
+47,Suzuki,Suzuki Ertiga,MPV,2018,178000000,m,black
+48,Suzuki,Suzuki Ertiga,MPV,2016,168000000,m,blue
+49,Suzuki,Suzuki Ertiga,MPV,2012,100000000,m,blue
+50,Suzuki,Suzuki Ertiga,MPV,2018,167000000,m,red
